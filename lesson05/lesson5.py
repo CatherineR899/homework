@@ -1,6 +1,7 @@
 startingMoney = float(input("Enter the amount of starting money: "))
 cookiesSold = (input("Enter the cookies sold: "))
 
+# Count method: stringName.count(character)
 bigCookies = cookiesSold.count("b")
 normalCookies = cookiesSold.count("c")
 
